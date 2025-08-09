@@ -16,8 +16,8 @@ let obj = {
 }
 
 for (const key in obj) {
-        const element = obj[key];
-        console.log(key, element)
+        const ele = obj[key];
+        console.log(key, ele)
 }
 
 for (const c of "Harry") {
