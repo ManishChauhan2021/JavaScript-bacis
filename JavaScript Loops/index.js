@@ -25,8 +25,7 @@ for (const c of "Harry") {
 }
 
 
-sdfhisdf=<.dkflkl?
-// 
+// this is my last ect  
 
 let i = 0;
 while (i < 6) {
