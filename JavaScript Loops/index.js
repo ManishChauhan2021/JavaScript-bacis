@@ -1,37 +1,37 @@
 console.log("I am a tutorial on Loops")
 
 let a = 1;
-// console.log(a)
-// console.log(a+1)
-// console.log(a+2)
+console.log(a)
+console.log(a+1)
+console.log(a+2)
 
-// for (let i = 0; i < 100; i++) {
-//     console.log(a + i);
-// }
+for (let i = 0; i < 100; i++) {
+    console.log(a + i);
+}
 
-// let obj = {
-//     name: "Harry",
-//     role: "Programmer",
-//     company: "CodeWithHarry AI"
-// }
+let obj = {
+    name: "Harry",
+    role: "Programmer",
+    company: "CodeWithHarry AI"
+}
 
-// for (const key in obj) {
-//         const element1 = obj[key];
-//         console.log(key, element1)
-// }
+for (const key in obj) {
+        const ele = obj[key];
+        console.log(key, ele)
+}
 
-// for (const c of "Harry") {
-//     console.log(c)
-// }
+for (const c of "Harry") {
+    console.log(c)
+}
 
-// let i = 0;
-// while (i < 6) {
-//     console.log(i)
-//     i++;
-// }
-
-let i = 10;
-do {
+let i = 0;
+while (i < 6) {
     console.log(i)
+    i++;
+}
+
+let i2 = 10;
+do {
+    console.log(i2)
     i++;
 } while (i<6);
