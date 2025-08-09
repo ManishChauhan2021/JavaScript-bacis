@@ -24,6 +24,10 @@ for (const c of "Harry") {
     console.log(c)
 }
 
+
+sdfhisdf=<.dkflkl?
+// 
+
 let i = 0;
 while (i < 6) {
     console.log(i)
